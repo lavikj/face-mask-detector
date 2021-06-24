@@ -58,7 +58,7 @@ This is the only step that you need to perform on your behalf if you want to run
 
 #### Project Links:
 <ul>
-<li><p>This GitHub Link: https://github.com/jp-singaraju/Face-Mask-Detection</p></li>
+<li><p>This GitHub Link: https://github.com/lavikj/Face-Mask-Detection</p></li>
 <li><p>Lavik Jain Kaggle Link: https://www.kaggle.com/luka77/facemask-detection-dataset-20000-images</p></li>
 <li><p>Pranav Singaraju Kaggle Link: https://www.kaggle.com/pranavsingaraju/facemask-detection-dataset-20000-images</p></li>
 <li><p>Prasoon Kottarathil Kaggle Link: https://www.kaggle.com/prasoonkottarathil/face-mask-lite-dataset</p></li>
