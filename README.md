@@ -1,4 +1,4 @@
-# Face-Mask-Detection
+# face-mask-detector
 
 ## Purpose and Goal
 This project was undertaken by Jathin Pranav Singaraju and Lavik Jain during the UT Dallas Advanced AI Workshop. 
